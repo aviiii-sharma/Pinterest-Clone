@@ -37,5 +37,5 @@ The Pinterest Clone is designed to provide users with a visually engaging and in
 
 ## How to Use:
 
-- [Click here](https://devaviral.sh.com) To visit our Pinterest Clone 
+- [Click here](https://devaviral.sh.com) to view our Pinterest Clone 
 
